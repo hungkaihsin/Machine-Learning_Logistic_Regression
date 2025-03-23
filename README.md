@@ -1,4 +1,4 @@
-# Machine-Learning_Logistic_Regression
+# Machine Learning - Logistic_Regression
 
 ## Introduction
 - This is a simple example of practicing the use of the Logistic Regression algorithm in Python
